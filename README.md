@@ -1,5 +1,23 @@
 # IoT-NodeRed-MQTT
 Tugas kelompok IoT integrasi dengan NodeRed menggunakan komunikasi MQTT
+
+# Daftar Isi
+1.  [Daftar Anggota](#daftar-anggota)
+2.  [Overview](#overview)
+3.  [Alur Kerja](#alur-kerja)
+    * [Mengunduh aplikasi dan setup](#mengunduh-aplikasi-dan-setup-jika-diperlukan)
+        * [Install mosquitto MQTT](#install-mosquitto-mqtt)
+        * [Install node-red](#install-node-red)
+    * [Code overview](#code-overview)
+        * [Install library dan define beberapa hal crucial](#install-library-dan-define-beberapa-hal-crucial)
+        * [Setup Credential](#setup-credential)
+        * [Setup Wifi](#setup-wifi)
+        * [Fungsi reconnect()](#fungsi-reconnect)
+        * [Fungsi setup()](#fungsi-setup)
+        * [Fungsi loop()](#fungsi-loop)
+    * [node-red nodes configuration](#node-red-nodes-configuration)
+4.  [Dokumentasi Wiring](#dokumentasi-wiring)
+
 # Daftar Anggota
 |Nama | NRP |
 |-----|-----|
@@ -112,7 +130,7 @@ void reconnect() {
   }
 }
 ```
-FUngsi ini berguna ebagai helper/penanda saat gagal terhubung dengan mqtt server
+Fungsi ini berguna sebagai helper/penanda saat gagal terhubung dengan mqtt server
 
 ### Fungsi setup()
 ```cpp
