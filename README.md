@@ -200,20 +200,20 @@ Sekarang kita masuk ke web node-red dan melakukan konfigurasi nodes, untuk nodes
     <br>
 - **Join Node:**
   <br>
-  ![join-node](https://github.com/user-attachments/assets/7323bb38-6c83-498b-b401-da63d38385d6)(assets/join-node.jpeg)
+  ![join-node](https://github.com/user-attachments/assets/7323bb38-6c83-498b-b401-da63d38385d6)
   <br>
 - **Debug Node: **
   <br>
-  ![debug-node](https://github.com/user-attachments/assets/6f184617-7da6-45b1-9f73-2b97e8af0ce0)(assets/debug-node.jpeg)
+  ![debug-node](https://github.com/user-attachments/assets/6f184617-7da6-45b1-9f73-2b97e8af0ce0)
   <br>
 -**Change Node: **
   <br>
-  ![change-node](https://github.com/user-attachments/assets/e2b9a9c4-0c17-45e9-8c51-536b89dfa260)(assets/change-node.jpeg)
+  ![change-node](https://github.com/user-attachments/assets/e2b9a9c4-0c17-45e9-8c51-536b89dfa260)
   <br>
 
 ## Hasil Akhir 
 
-![bagian-akhir](https://github.com/user-attachments/assets/59c15549-2727-4d61-89a8-a3faee2990fe)(assets/bagian-akhir.jpeg)
+![bagian-akhir](https://github.com/user-attachments/assets/59c15549-2727-4d61-89a8-a3faee2990fe)
 
 Setelah itu seharusnya data sensor DHT11 sudah bisa dikirim oleh ESP32 ke node-red, dan visualisasi data bisa dilihat di dashbord dengan url  _localhost:1880/ui_. Berikut dashboard kami dan juga catatan log di mosquitto serta serial monitor:
 ![dashboard node-red](assets/dashboard.png)
