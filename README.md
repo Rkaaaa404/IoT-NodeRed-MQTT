@@ -202,11 +202,11 @@ Sekarang kita masuk ke web node-red dan melakukan konfigurasi nodes, untuk nodes
   <br>
   ![join-node](https://github.com/user-attachments/assets/7323bb38-6c83-498b-b401-da63d38385d6)
   <br>
-- **Debug Node: **
+- **Debug Node:**
   <br>
   ![debug-node](https://github.com/user-attachments/assets/6f184617-7da6-45b1-9f73-2b97e8af0ce0)
   <br>
--**Change Node: **
+- **Change Node:**
   <br>
   ![change-node](https://github.com/user-attachments/assets/e2b9a9c4-0c17-45e9-8c51-536b89dfa260)
   <br>
