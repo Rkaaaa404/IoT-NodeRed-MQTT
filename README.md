@@ -198,11 +198,11 @@ Sekarang kita masuk ke web node-red dan melakukan konfigurasi nodes, untuk nodes
     <br>
     ![config gauge humidity](assets/gauge-hum.png)
     <br>
-- **Join Node:**
+  - **Join Node:**
      ![join-node](https://github.com/user-attachments/assets/7323bb38-6c83-498b-b401-da63d38385d6)(assets/join-node.png)
      <br>
-  -**Debug Node: **
-     ![debug-node](https://github.com/user-attachments/assets/6f184617-7da6-45b1-9f73-2b97e8af0ce0)(assets/debug-node.png)
+  - **Debug Node: **
+      ![debug-node](https://github.com/user-attachments/assets/6f184617-7da6-45b1-9f73-2b97e8af0ce0)(assets/debug-node.png)
      <br>
    -**Change Node: **
      ![change-node](https://github.com/user-attachments/assets/e2b9a9c4-0c17-45e9-8c51-536b89dfa260)(assets/change-node.png)
