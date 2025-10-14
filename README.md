@@ -214,8 +214,7 @@ Sekarang kita masuk ke web node-red dan melakukan konfigurasi nodes, untuk nodes
 ## Hasil Akhir 
 
 ![bagian-akhir](https://github.com/user-attachments/assets/59c15549-2727-4d61-89a8-a3faee2990fe)
-
-Setelah itu seharusnya data sensor DHT11 sudah bisa dikirim oleh ESP32 ke node-red, dan visualisasi data bisa dilihat di dashbord dengan url  _localhost:1880/ui_. Berikut dashboard kami dan juga catatan log di mosquitto serta serial monitor:
+Didapatkan hasil akhir config node-red demikian, selain itu data yang dikirim bisa dilihat melalui debug terminal serta melalui UI dimana visualisasi data bisa dilihat di dashbord dengan url  _localhost:1880/ui_. Berikut dashboard kami dan juga catatan log di mosquitto serta serial monitor:
 ![dashboard node-red](assets/dashboard.png)
 ![log mosquitto](assets/mosquitto-log.jpeg)
 ![serial monitor](assets/serialmonitor.png)
